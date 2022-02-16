@@ -74,6 +74,9 @@ class Home extends StatelessWidget {
           ),
         ],
       ),
+
+      // Column code same as row
+
     );
   }
 }
